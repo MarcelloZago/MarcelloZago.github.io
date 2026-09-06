@@ -1,0 +1,47 @@
+---
+title: "Publications"
+---
+
+Below is a list of my research publications.
+
+## Journal Articles
+
+### [Effects of segmentation errors on downstream-analysis in highly-multiplexed tissue imaging](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013350)
+**Authors:** Matthias Bruhns, Jan T. Schleicher, Maximilian Wirth, **Marcello Zago**, Sepideh Babaei, Manfred Claassen  
+**Journal:** PLOS Computational Biology, 2025  
+**DOI:** [10.1371/journal.pcbi.1013350](https://doi.org/10.1371/journal.pcbi.1013350)
+
+---
+
+### [Genome-wide CRISPR-Cas9 screens identify BCL family members as modulators of response to regorafenib in experimental glioma](https://watermark02.silverchair.com/noae278.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAmowggJmBgkqhkiG9w0BBwagggJXMIICUwIBADCCAkwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMS8gjrbUz4nfhms0kAgEQgIICHa_PE5xrh-GC29RdKk0CiHVw45exX91r8BhrEjA9ugbweMc3mADMk537aiyaXOqrON8hDa_rnu6UEqB0Fu7CjFBgjTx7s3oMRRx7wZ3qtEOFmR8Fiz9sMPae1CRU2Go7PUKVbTQ4zX6HvlR6ERJbHulZ4znmS0GgMIHSFEvTwUk1ldfpF2vPvteD7FBV-im2-ZQyFhGi-2e9rAGCNToP0J_XeM2G9829cwnO3KB8StqgJXD5pr8Y2K17xS0M3gfVz2o7ymjg3WisUDDgVPe4usMWniP3PHTVYuflwUKZ0gJhVuW3tIEbv8m7huzzP0aLkm67-C3J5iyNjnURos553MvIbKuB7m86_TKL4Z2u7PcBfmHqoyTDQtb_wkZ66e_dWGAS_i5XIfEOg1E2OPLYQRqJUDPw8dJVkDsp7_D_nFmV5JcNIs3jc_dQXqA0LGEPBx6u6QNHAWw2UtqajPq87MvBwUOUJWYNQb3rMvjtVrw3BIuTIWGNN0o19JvUgSUn9TrbjdQUUXUxSbRhC1ySa90piQUqwYLpg1V0e-dgI0XEF7yGqoNFvAbGP70is1xx8tGh-g_oMaxcbtttnG_CQDlRXD92hnTFy7Trs4gn27C7ElEB4gu560lWduZy9CdrFijbLeiO5Q5fDim7Q-RtW2h3gHAhPC2e6djgnrJzh2SI6WsLqhlb_9RtNP6_pJQ6RFAH8W-ERfGfMRWol4g)
+**Authors:** Lara Annina Haeusser, Hannes Becker, Laurence Kuhlburger, **Marcello Zago**, Bianca Walter, Foteini Tsiami, Sarah Erdmann, Jil Trampert, Surender Surender, Aaron Stahl, Markus Templin, Eileen Wegner, Tobias Schmidt, Christian Schmees, Nicolas Casadei, Lisa Sevenich, Manfred Claassen, Sven Nahnsen, Susanne Beck, Daniel Josef Merk, Ghazaleh Tabatabai  
+**Journal:** Neuro-oncology, 2025  
+**DOI:** [10.1093/neuonc/noae278](https://doi.org/10.1093/neuonc/noae278)
+
+---
+
+## Preprints
+
+### [G-LATO: Inference of Spatial Latent Ordering via Deep Gaussian Processes](https://www.biorxiv.org/content/10.64898/2026.06.23.734031v1.full.pdf)
+**Authors:** **Marcello Zago**, Soham Mukherjee, Jan T. Schleicher, Paul-C. Bürkner, Ghazaleh Tabatabai, Manfred Claassen  
+**Platform:** bioXiv, 2026  
+**DOI:** [10.64898/2026.06.23.734031](https://doi.org/10.64898/2026.06.23.734031)
+
+### [Latent variable estimation with composite Hilbert space Gaussian processes](https://arxiv.org/pdf/2510.25371)
+**Authors:** Soham Mukherjee, Javier Enrique Aguilar, **Marcello Zago**, Manfred Claassen, Paul-Christian Bürkner  
+**Platform:** arXiv, 2025  
+**DOI:** [10.48550/arXiv.2510.25371](
+https://doi.org/10.48550/arXiv.2510.25371)
+
+---
+
+## Theses
+
+### [Derivative Gaussian Process for scRNAseq Data using Combination Covariance Functions](pdfs/master_thesis.pdf)
+**University:** Eberhard Karls Universität Tübingen  
+**Year:** 2024  
+**Advisors:** Manfred Claassen, Max Schmid
+
+---
+
+*Last updated: 6. September 2026*

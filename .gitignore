@@ -1,0 +1,24 @@
+# Quarto
+_site/
+*.aux
+*.log
+*.out
+
+# macOS
+.DS_Store
+
+# R
+.Rproj.user/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+/.quarto/

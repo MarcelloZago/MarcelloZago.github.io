@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Marcello Zago"
+  description: "Personal website of Marcello Zago - PhD Student"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+    right:
+      - href: https://github.com/MarcelloZago
+        text: GitHub
+        icon: fa-github
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-in-header: header.html
+    toc: false

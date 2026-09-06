@@ -1,0 +1,10 @@
+---
+title: ""
+---
+
+# Curriculum Vitae
+
+<embed src="pdfs/cv.pdf" type="application/pdf" class="cv-pdf" />
+
+
+*Last updated: 6. September 2026*

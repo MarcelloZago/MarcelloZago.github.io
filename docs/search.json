@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Curriculum Vitae\n\nLast updated: 6. September 2026"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marcello Zago",
+    "section": "",
+    "text": "I am a PhD student at the University Clinics Tübingen, where I develop probabilistic machine learning methods for spatial Omics data analysis. My research focuses on Bayesian inference techniques to model spatio-temporal processes in glioblastoma, aiming to uncover the molecular mechanisms driving tumor heterogeneity and progression.\nI am co-supervised by Manfred Claassen and Ghazaleh Tabatabai."
+  },
+  {
+    "objectID": "index.html#phd-student-in-computational-biology",
+    "href": "index.html#phd-student-in-computational-biology",
+    "title": "Marcello Zago",
+    "section": "",
+    "text": "I am a PhD student at the University Clinics Tübingen, where I develop probabilistic machine learning methods for spatial Omics data analysis. My research focuses on Bayesian inference techniques to model spatio-temporal processes in glioblastoma, aiming to uncover the molecular mechanisms driving tumor heterogeneity and progression.\nI am co-supervised by Manfred Claassen and Ghazaleh Tabatabai."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Marcello Zago",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nMy work bridges probabilistic machine learning, Bayesian statistics, and bioinformatics, with a particular focus on:\n\n\nProbabilistic ML\nUncertainty quantification in high-dimensional biological data\n\n\nBayesian Inference\nHierarchical models and MCMC methods for complex spatial dependencies\n\n\nBioinformatics\nSpatial Omics and single-cell transcriptomics analysis\n\n\nSpatial Transcriptomics\nCancer research applications, particularly in glioblastoma"
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Marcello Zago",
+    "section": "About This Site",
+    "text": "About This Site\nThis is my personal academic website where I share my research, publications, and thoughts on computational methods for biological data."
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Marcello Zago",
+    "section": "Links",
+    "text": "Links\n\nEmail - Get in touch\nLinkedIn - Professional profile\nGitHub - Code and projects"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a list of my research publications."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nEffects of segmentation errors on downstream-analysis in highly-multiplexed tissue imaging\nAuthors: Matthias Bruhns, Jan T. Schleicher, Maximilian Wirth, Marcello Zago, Sepideh Babaei, Manfred Claassen\nJournal: PLOS Computational Biology, 2025\nDOI: 10.1371/journal.pcbi.1013350\n\n\n\nGenome-wide CRISPR-Cas9 screens identify BCL family members as modulators of response to regorafenib in experimental glioma\nAuthors: Lara Annina Haeusser, Hannes Becker, Laurence Kuhlburger, Marcello Zago, Bianca Walter, Foteini Tsiami, Sarah Erdmann, Jil Trampert, Surender Surender, Aaron Stahl, Markus Templin, Eileen Wegner, Tobias Schmidt, Christian Schmees, Nicolas Casadei, Lisa Sevenich, Manfred Claassen, Sven Nahnsen, Susanne Beck, Daniel Josef Merk, Ghazaleh Tabatabai\nJournal: Neuro-oncology, 2025\nDOI: 10.1093/neuonc/noae278"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nG-LATO: Inference of Spatial Latent Ordering via Deep Gaussian Processes\nAuthors: Marcello Zago, Soham Mukherjee, Jan T. Schleicher, Paul-C. Bürkner, Ghazaleh Tabatabai, Manfred Claassen\nPlatform: bioXiv, 2026\nDOI: 10.64898/2026.06.23.734031\n\n\nLatent variable estimation with composite Hilbert space Gaussian processes\nAuthors: Soham Mukherjee, Javier Enrique Aguilar, Marcello Zago, Manfred Claassen, Paul-Christian Bürkner\nPlatform: arXiv, 2025\nDOI: 10.48550/arXiv.2510.25371"
+  },
+  {
+    "objectID": "publications.html#theses",
+    "href": "publications.html#theses",
+    "title": "Publications",
+    "section": "Theses",
+    "text": "Theses\n\nDerivative Gaussian Process for scRNAseq Data using Combination Covariance Functions\nUniversity: Eberhard Karls Universität Tübingen\nYear: 2024\nAdvisors: Manfred Claassen, Max Schmid\n\nLast updated: 6. September 2026"
+  }
+]
